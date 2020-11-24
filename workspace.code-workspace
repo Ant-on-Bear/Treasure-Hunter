@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"vetur.format.defaultFormatter.js": "none",
+		"javascript.preferences.quoteStyle": "double",
+		"typescript.preferences.quoteStyle": "double"
+	}
+}
