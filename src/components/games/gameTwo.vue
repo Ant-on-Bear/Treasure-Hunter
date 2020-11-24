@@ -1,6 +1,6 @@
 <template>
-  <p>gametwo</p>
+  <p>gametwo-2</p>
 </template>
 <script>
-export default {}
+export default {};
 </script>
